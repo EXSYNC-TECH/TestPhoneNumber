@@ -1,6 +1,7 @@
 # first_project
 
-A new Flutter project.
+Itu Contoh  outpunya ada di image
+
 
 ## Getting Started
 
